@@ -28,5 +28,5 @@ https://github.com/lakshmi-1102004/dmart-sales-excel-dashboard/blob/main/Screens
 •	Combined charts into one dashboard sheet
 
 ##Dashboard
-https://github.com/lakshmi-1102004/dmart-sales-excel-dashboard.git
-https://github.com/lakshmi-1102004/dmart-sales-excel-dashboard/blob/main/Screenshot%202026-04-04%20170853.png?raw=true
+<img width="670" height="294" alt="Screenshot 2026-04-04 170853" src="https://github.com/user-attachments/assets/31d0340a-b774-4bb0-8c43-ea6f9f940538" />
+
