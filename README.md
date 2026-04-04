@@ -30,3 +30,12 @@ https://github.com/lakshmi-1102004/dmart-sales-excel-dashboard/blob/main/Screens
 ##Dashboard
 <img width="670" height="294" alt="Screenshot 2026-04-04 170853" src="https://github.com/user-attachments/assets/31d0340a-b774-4bb0-8c43-ea6f9f940538" />
 
+ ##Project Insights
+•	Some categories generate higher sales
+•	Few products contribute more revenue
+•	Monthly sales show variation
+•	Profit differs across categories
+•	Segment analysis shows customer contribution
+##Conclusion
+The dashboard converts raw data into meaningful insights.
+It helps understand sales performance easily using charts and summaries.
