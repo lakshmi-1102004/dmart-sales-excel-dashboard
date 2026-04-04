@@ -29,3 +29,4 @@ https://github.com/lakshmi-1102004/dmart-sales-excel-dashboard/blob/main/Screens
 
 ##Dashboard
 https://github.com/lakshmi-1102004/dmart-sales-excel-dashboard.git
+https://github.com/lakshmi-1102004/dmart-sales-excel-dashboard/blob/main/Screenshot%202026-04-04%20170853.png?raw=true
