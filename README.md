@@ -4,7 +4,7 @@ To analyze sales data and create a simple interactive dashboard in Excel that sh
 
 ##Dataset used
 
--<a href="https://github.com/lakshmi-1102004/dmart-sales-excel-dashboard.git"> dataset <a/>
+-<a href= "https://github.com/lakshmi-1102004/dmart-sales-excel-dashboard/blob/main/dmart-sales-data_1.csv"> data set used <a/>
 
 ##Questions 
 
