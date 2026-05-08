@@ -20,7 +20,7 @@ To analyze sales data and create a simple interactive dashboard in Excel that sh
 
 ##Dashboard 
 
-https://github.com/lakshmi-1102004/dmart-sales-excel-dashboard/blob/main/Screenshot%202026-04-04%20170853.png?raw=true
+-<a href="https://github.com/lakshmi-1102004/dmart-sales-excel-dashboard/blob/main/Screenshot%202026-04-04%20170853.png?raw=true"> View dmart sales dashboard
 
 ##PROCESS
 
@@ -44,6 +44,7 @@ https://github.com/lakshmi-1102004/dmart-sales-excel-dashboard/blob/main/Screens
 •	Segment analysis shows customer contribution
 
 ##Conclusion
+This project analyzes the Dmart sales data using Excel and presents key business insights through an interactive dashboard. The dashboard helps understand sales performance, profit trends, category-wise analysis, and customer purchasing patterns in a clear and visual format. This project demonstrates the use of Excel for data cleaning, analysis, visualization, and dashboard creation for business decision-making.
 
 The dashboard converts raw data into meaningful insights.
 It helps understand sales performance easily using charts and summaries.
